@@ -2,68 +2,77 @@ TITLE: Computational Science: Quantum Information Science and Technology
 AUTHOR: Computational Science program, University of Oslo
 DATE: Planned start: Fall 2025
 
-FIGURE: [fig-slides/compphys.gif, width=1000 frac=0.4] 
 
 ===== Why Quantum Information Science and Technology  =====
+
+Quantum Information Science and Technology is an emerging field with
+the potential to produce revolutionary advances in fields of science
+and engineering involving computation, communication, precision
+measurement, and fundamental quantum science.
 
 
 ===  The Quantum Information Science and technology study option ===
 
+The field of Quantum Information Science and Technology  brings
+together two major advances of the 20th century: quantum mechanics and
+information technology.
 
-=== Study environment ===
+Quantum mechanics is the most accurate theory in science. It describes
+the world at its most basic level. Information technology gave rise to
+the computer, digital communication and other devices that have
+transformed how we live. When we combine quantum mechanics and
+information technology we get Quantum Information Science and
+Technology.
 
-This is new program at the University of Oslo and through various
-activities, spanning from common meetings and field trips to various
-social gatherings, we will gradually build up a top learning
-environment where you will thrive as a student and learn to develop
-your scientific creativity. The University of Oslo offers a rich and
-active student environment with more than 200 student led activities
-and organizations.
+Quantum Information Science and Technology will harness the power of
+quantum mechanics and bring a radical new era of technology. It will
+allow us to do things that are unthinkable or even impossible with
+today’s technology. Quantum technologies will fundamentally change
+classical engineering paradigms in computing, information processing,
+and measurement technology.
 
-=== Studies abroad ===
-
-All study options offer possibilities for stays abroad. Planning a
-semester or more abroad or performing parts of your thesis at a
-collaborating institution is something we highly recommend. As a
-student in this program you have a number of interesting international
-exchange possibilities. The involved researchers have extensive
-collaborations with other researchers worldwide. These exchange
-possibilities range from top universities in the USA, Asia and Europe as
-well as leading National Laboratories in the USA. Don't hesitate to
-get in touch with  the contact person of your study option in case you plan to
-spend some time abroad. Studies at other
-institutions can be planned from the very first semester of this
-Master of Science program.
-
-Students at the University of Oslo may choose to "take parts of
-their degrees at a university abroad":"http://www.uio.no/studier/utveksling/".
-The University of Oslo has exchange agreements with other universities in different parts of the world. "The MN Faculty has additional exchange agreements with many universities abroad":"http://www.uio.no/studier/utveksling/avtaler/avtaleeiere/uio/".
+With this study option you can deepen your knowledge on quantum
+mechanics with a broad range of possibilities, from the mathematics of
+quantum information science to quantum engineering and devising
+quantum gates and circuits, in close cooperation with experimental
+environments.
 
 
-=== Career prospect ===
+===== Program options CS: Quantum Information Science and Technology =====
 
-A significant aspect of this program is the ability to offer new educational
-opportunities that are aligned with the needs of a 21st century
-workforce. Many companies are seeking
-individuals who have knowledge of both a specific discipline and
-computational modeling. And candidates who are capable of modeling and understanding complicated
-systems in natural science, are in short supply in society.  The
-computational methods and approaches to scientific problems that you will learn
-when working on your thesis project are very similar to the methods
-you  will use in later stages of your career.  To handle large
-numerical projects demands structured thinking and good analytical
-skills and a thorough understanding of the problems to be solved. This
-knowledge makes you unique in the labor market.
+===  structure of the option CS: Quantum Information Science and Technology ===
 
-Career opportunities are many, from research institutes, universities
-and university colleges and a multitude of companies. The program gives an
-excellent background for further studies, with a PhD as one possible
-goal.
+The program option Quantum Information Science and Technology is built
+around a Master's thesis, which is an independent scientific research
+work of 60 ECTS credits, and six courses with a total of 60 ECTS
+credits.
 
-The program has also a strong international element which allows students to
-gain important experience from international collaborations in
-science, with the opportunity to spend parts of the time spent on
-thesis work at research institutions abroad.
+The program contains mandatory courses. For general structure and
+mandatory requirements, please see the program structure.
+
+=== Recommended courses ===
+
+Courses with a focus on quantum mechanics, quantum information theory and quantum technologies
+
+FYS4110 – Modern Quantum Mechanics
+FYS4170 – Relativistic Quantum Field Theory
+FYS4415 – Quantum Computing and Quantum Information theory
+FYS4480 - Quantum mechanics for many-particle systems
+FYS4411 – Computational Physics II: Quantum Mechanical Systems
+FYS5419 - Quantum Computing and Quantum Machine Learning
+MAT3420 – Quantum Computing
+MAT4430 – Quantum information theory
 
 
+===== Career opportunities =====
 
+A significant aspect of this program is the ability to offer new educational opportunities that are aligned with the needs of a 21st century workforce.
+
+Many companies are seeking individuals who have knowledge of both a specific discipline and computational modeling. And candidates who are capable of modeling and understanding complicated systems in natural science, are in short supply in society.
+
+=== Unique knowledge in the labour market ===
+The computational methods and approaches to scientific problems that you will learn when working on your thesis project are very similar to the methods you will use in later stages of your career. To handle large numerical projects demands structured thinking and good analytical skills and a thorough understanding of the problems to be solved. This knowledge makes you unique in the labour market.
+
+=== A wide range of work places ===
+
+Career opportunities are many, from research institutes and laboratories, universities and university colleges and a multitude of companies. The program gives an excellent background for further studies, with a PhD as one possible goal.
