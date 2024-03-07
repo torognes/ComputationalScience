@@ -1,43 +1,13 @@
-TITLE: Computational Science: Physics
-AUTHOR: Department of Physics, University of Oslo
-DATE: Planned start: Fall 2018
+TITLE: Computational Science: Quantum Information Science and Technology
+AUTHOR: Computational Science program, University of Oslo
+DATE: Planned start: Fall 2025
 
 FIGURE: [fig-slides/compphys.gif, width=1000 frac=0.4] 
 
-===== Why Computational Physics =====
+===== Why Quantum Information Science and Technology  =====
 
 
-Many important recent advances in
-our understanding of the physical world have been driven by
-large-scale computational modeling and data analysis, for example,
-the 2012 discovery of the Higgs boson, the 2013 Nobel Prize in
-chemistry for computational modeling of molecules (received by
-biophysicists), and the 2016 discovery of gravitational waves. It has
-become clear that a large fraction of theoretical and experimental
-physicists require a high level of computational sophistication to
-competently pursue many aspects of their work, a trend that is likely
-to grow with time as computers increase in power and experimental
-datasets grow exponentially. The Computational Physics option will allow you to explore Physics with the tools of the 21st century.
-
-
-===  The Computational Physics study option ===
-
-
-In Computational Physics you learn to use the computer as a
-laboratory for solving advanced  physics problems. 
-Numerical simulations will increasingly dominate our approaches to studying physical
-systems, in line with the increase in computational capabilities.
-Possible applications range from studying
-quantum physical systems in nanotechnology and the characteristics of
-new materials, subatomic physics, from lattice quantum chromodynamics simulations to studies of stars and the synthesis of the elements, to oil flow through various rock strata, physics applications to life science and computational neuroscience, semi-conductor
-technology and simulating quantum computers and quantum computing. Research
-includes both pure research projects as well as more applied research.
-
-Other possibilities for thesis work can be related to pedagogical
-questions and the use of computing in teaching at the university level. Thesis topics can span from
-developing numerical exercises and projects for university or college courses to the development and participation in advanced  assessment studies.
-
-
+===  The Quantum Information Science and technology study option ===
 
 
 === Study environment ===
